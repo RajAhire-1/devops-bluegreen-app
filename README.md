@@ -107,7 +107,7 @@ Push to `main` branch
 <img src="screenshots/alb.png" width="900">
 
 ### Target Groups (Blue & Green)
-<img src="screenshots/target-groups.png" width="900">
+<img src="screenshots/target_groups.png" width="900">
 
 ### Auto Scaling Groups
 <img src="screenshots/asg.png" width="900">
@@ -117,17 +117,17 @@ Push to `main` branch
 ## 🚀 Deployment Validation
 
 ### 🟦 Blue Version (Stable)
-<img src="screenshots/blue-version.png" width="900">
+<img src="screenshots/blue_version.png" width="900">
 
 ### 🟩 Green Version (After CI/CD Deployment)
-<img src="screenshots/green-version.png" width="900">
+<img src="screenshots/green_version.png" width="900">
 
 ---
 
 ## 🔄 CI/CD Automation
 
 ### GitHub Actions Successful Run
-<img src="screenshots/github-actions.png" width="900">
+<img src="screenshots/github_actions.png" width="900">
 
 ---
 
@@ -139,7 +139,7 @@ Push to `main` branch
 
 ## 🔐 IAM Deployment User
 
-<img src="screenshots/iam-user.png" width="900">
+<img src="screenshots/iam_user.png" width="900">
 
 ---
 
