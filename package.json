@@ -1,0 +1,22 @@
+{
+  "name": "devops-bluegreen-app",
+  "version": "1.0.0",
+  "description": "Highly Available & Auto-Scalable Dockerized Node.js App with Blue-Green Deployment on AWS",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js"
+  },
+  "keywords": [
+    "devops",
+    "docker",
+    "aws",
+    "blue-green",
+    "auto-scaling",
+    "nodejs"
+  ],
+  "author": "Joy",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
